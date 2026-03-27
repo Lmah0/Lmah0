@@ -1,12 +1,6 @@
-# Hi, I'm Liam 👋
+# Hi, I'm Liam
 
 I'm a software engineering student at the University of Calgary with a passion for aerospace software.
-
-I currently work at Lockheed Martin's Advanced Development Programs (Skunk Works), specializing in aeronautics and unmanned vehicle control software. As the President and Head of Engineering for Schulich Unmanned Aerial Vehicles, I oversee administrative processes and all aspects of business and engineering. Prior to this, I've worked at Schlumberger (SLB), contributing to the development of Symmetry process simulation software.
-
-My current projects are oriented towards flight control software, embedded systems, computer-vehicle communications and networking, imaging systems, and convolutional neural network artifical intelligence.
-
-In my free time, you can find me watching football or hockey, taking care of my dog, and spending time with friends.
 
 ### Connect with Me
 
