@@ -1,6 +1,6 @@
 # Hi, I'm Liam
 
-I'm a software engineering student at the University of Calgary with a passion for aerospace software.
+I'm a software engineering graduate from the University of Calgary with a passion for aerospace software and drones.
 
 ### Connect with Me
 
